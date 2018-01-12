@@ -1,12 +1,12 @@
 # Site settings
-title: 姚强的博客
-email: yq15853176753@gmail.com
+title: 秦小淯的博客
+email: 15822308557@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  姚强的博客
+  秦小淯的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://yaoqiang233.github.io/ # the base hostname & protocol for your site
+url: https://lzyby.github.io/ # the base hostname & protocol for your site
 rss_url: 
-author: Yao Qiang
+author: Qin Xiaoyu
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -15,8 +15,8 @@ recent_num: 20
 
 # Social account
 
-weibo: hijackemmm
-github: yaoqiang233
+weibo: u/3002500211
+github: lzyby
 
 # avatar and Favicon
 avatar:  http://fb.topitme.com/b/88/43/11224527285f54388bl.jpg
@@ -27,8 +27,8 @@ disqus:
 
 # google analytics config
 ga:
-  id: UA-112409559-1
-  url: yaoqiang233.github.io
+  id:  UA-112409559-1
+  url: https://lzyby.github.io/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
