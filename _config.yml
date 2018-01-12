@@ -19,9 +19,8 @@ weibo: u/3002500211
 github: lzyby
 
 # avatar and Favicon
-avatar:  http://fb.topitme.com/b/88/43/11224527285f54388bl.jpg
-favicon:  http://fb.topitme.com/b/88/43/11224527285f54388bl.jpg
-# disqus config
+avatar:  http://img5.duitang.com/uploads/item/201511/13/20151113120703_zUkdT.jpeg
+favicon: http://img5.duitang.com/uploads/item/201511/13/20151113120703_zUkdT.jpeg
 disqus:
   shortname: yaoqiang233
 
